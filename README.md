@@ -26,10 +26,7 @@ You can watch an introductory video about OpenTelemetry here:
 
 [![Introduction to OpenTelemetry](https://img.youtube.com/vi/TkQOvUCsF0o/0.jpg)](https://www.youtube.com/watch?v=TkQOvUCsF0o)
 
-Or play it directly below:
 
-<!-- Note: GitHub markdown does not render <iframe>, but this works on many other markdown renderers -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TkQOvUCsF0o" title="Introduction to OpenTelemetry" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ---
