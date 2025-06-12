@@ -181,7 +181,7 @@ provider = TracerProvider(sampler=TraceIdRatioBased(0.1))  # Sample 10%
 ```
 
 
-======================================================================================================================
+======================================================================================================
 
 ### 2. Context Propagation
 
@@ -204,7 +204,7 @@ Imagine you're sending a package through a delivery service.
 
 Without context propagation, it would be like trying to track a package with no label — every step would look disconnected!
 
-======================================================================================================================
+======================================================================================================
 
 
 ### 3. Span Processing
