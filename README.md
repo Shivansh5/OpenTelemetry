@@ -288,7 +288,7 @@ Imagine you're sending packages:
 
 Span processing is the bridge between "I recorded something" and "It's now visible in my observability tool." It controls how, when, and where your spans are sent after they're created.
 
-======================================================================================================================
+======================================================================================================
 
 
 
@@ -304,7 +304,7 @@ Send the telemetry to tools like Jaeger, Grafana, or Datadog
 
 
 
-======================================================================================================================
+======================================================================================================
 
 
 ## 🔧 Automatic Instrumentation for Popular Frameworks
